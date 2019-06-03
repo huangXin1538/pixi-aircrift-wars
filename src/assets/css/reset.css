@@ -1,0 +1,13 @@
+body {
+  width: 100%;
+  max-width: 720px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  margin: 0;
+  padding: 0;
+}
