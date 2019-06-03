@@ -17,7 +17,8 @@ yarn run build
 
 ### 因为屏幕适配问题，请在移动端打开
 
-
+## demo 效果地址
+http://47.104.9.195:8080/pixi-aircraft-wars/
 
 ## 什么是pixi.js
 Pixi.js使用WebGL，是一个超快的HTML5 2D渲染引擎。作为一个Javascript的2D渲染器，Pixi.js的目标是提供一个快速的、轻量级而且是兼任所有设备的2D库。提供无缝 Canvas 回退，支持主流浏览器，包括桌面和移动。 Pixi渲染器可以开发者享受到硬件加速，但并不需要了解WebGL。
